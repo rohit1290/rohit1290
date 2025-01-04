@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/rohit1290/"<img src="https://github-profile-trophy.vercel.app/?username=rohit1290&no-frame=true" alt="rohit1290" /></a> </p>
+<p align="left"> <a href="https://github.com/rohit1290/"><img src="https://github-profile-trophy.vercel.app/?username=rohit1290&no-frame=true&no-bg=true" alt="rohit1290" /></a> </p>
 
 - 🔭 I’m currently working on [Campus Karma](https://www.campuskarma.in)
 
